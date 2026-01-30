@@ -29,7 +29,7 @@ Each view gets its own page at `<base-name>/<view-name>`.
 
 ## Wikilinks
 
-Link to base views using the standard [[Navigation.base#Plugins|wikilink]] syntax:
+Link to base views using the standard [[navigation.base#Plugins|wikilink]] syntax:
 
 ```markdown
 [[my-base.base#Task List]]
