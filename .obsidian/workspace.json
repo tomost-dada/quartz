@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "00_주차별미션/Week_01/Week_01_다다.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Week_01_다다"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "00_주차별미션/Week_01/Week_01_다다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 의 백링크"
+              "title": "Week_01_다다 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "00_주차별미션/Week_01/Week_01_다다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 의 나가는 링크"
+              "title": "Week_01_다다 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "00_주차별미션/Week_01/Week_01_다다.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 의 개요"
+              "title": "Week_01_다다 의 개요"
             }
           }
         ]
@@ -185,43 +185,43 @@
   },
   "active": "0659b4af2db861b2",
   "lastOpenFiles": [
-    "index.html",
-    "00_주차별미션/Week_01/다다.md",
-    "index.md",
-    "vercel.json",
+    "00_주차별미션/Week_01/Week_01_에밀리.md",
+    "00_주차별미션/Week_01/Week_01_띵끄.md",
+    "00_주차별미션/Week_01/Week_01_다다.md",
+    "00_주차별미션/Week_01/Week_01_다니.md",
+    "00_주차별미션/Week_01/Week_01_오웬.md",
+    "_meta/멤버목록.md",
+    "_meta/파일명규칙.md",
+    "_meta/README.md",
+    "00_주차별미션/Week_08/Week_08_오웬.md",
+    "00_주차별미션/Week_08/Week_08_다니.md",
+    "00_주차별미션/Week_08/Week_08_에밀리.md",
+    "00_주차별미션/Week_08/Week_08_흐민.md",
+    "00_주차별미션/Week_08/Week_08_잽.md",
+    "00_주차별미션/Week_08/Week_08_띵끄.md",
+    "00_주차별미션/Week_08/Week_08_비비안.md",
+    "00_주차별미션/Week_08/Week_08_다다.md",
+    "00_주차별미션/Week_07/Week_07_오웬.md",
+    "00_주차별미션/Week_07/Week_07_다니.md",
+    "00_주차별미션/Week_07/Week_07_에밀리.md",
+    "00_주차별미션/Week_07/Week_07_흐민.md",
+    "00_주차별미션/Week_07/Week_07_잽.md",
+    "00_주차별미션/Week_07/Week_07_띵끄.md",
+    "00_주차별미션/Week_07/Week_07_비비안.md",
+    "00_주차별미션/Week_07/Week_07_다다.md",
+    "00_주차별미션/Week_06/Week_06_오웬.md",
+    "00_주차별미션/Week_06/Week_06_다니.md",
+    "01_인사이트",
+    "00_주차별미션/Week_08/흐민",
+    "00_주차별미션/Week_08/잽",
+    "00_주차별미션/Week_08/오웬",
+    "00_주차별미션/Week_08/에밀리",
+    "00_주차별미션/Week_08/비비안",
+    "00_주차별미션/Week_08/띵끄",
+    "00_주차별미션/Week_08/다다",
+    "00_주차별미션/Week_08/다니",
+    "00_주차별미션/Week_08",
     "Pasted image 20260329182258.png",
-    "node_modules/esprima/bin/esvalidate.js",
-    "node_modules/esprima/bin/esparse.js",
-    "node_modules/esprima/bin",
-    "node_modules/js-yaml/bin/js-yaml.js",
-    "node_modules/js-yaml/bin",
-    "node_modules/resolve/bin/resolve",
-    "node_modules/resolve/bin",
-    "node_modules/prettier/bin/prettier.cjs",
-    "node_modules/prettier/bin",
-    "node_modules/pixi.js/README.md",
-    "node_modules/mathjax-full/README.md",
-    "node_modules/mathjax-full/CONTRIBUTING.md",
-    "node_modules/rxjs/README.md",
-    "node_modules/rxjs/CODE_OF_CONDUCT.md",
-    "node_modules/rxjs/CHANGELOG.md",
-    "node_modules/typescript/SECURITY.md",
-    "node_modules/typescript/README.md",
-    "node_modules/rehype-citation/README.md",
-    "node_modules/speech-rule-engine/README.md",
-    "node_modules/@bufbuild/protobuf/README.md",
-    "node_modules/@img/sharp-libvips-darwin-arm64/README.md",
-    "node_modules/colorjs.io/README.md",
-    "node_modules/sass-embedded/README.md",
-    "node_modules/speech-rule-engine/lib/README.md",
-    "node_modules/katex/README.md",
-    "node_modules/@esbuild/darwin-arm64/README.md",
-    "node_modules/preact/README.md",
-    "node_modules/@citation-js/core/README.md",
-    "node_modules/@citation-js/core/LICENSE.md",
-    "node_modules/resolve/SECURITY.md",
-    "node_modules/@shuding/opentype.js/RELEASES.md",
-    "node_modules/@shuding/opentype.js/README.md",
     "node_modules/gifuct-js/demo/jblack.gif",
     "node_modules/gifuct-js/demo/horses.gif",
     "node_modules/gifuct-js/demo/dog.gif",
