@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_주차별미션/Week_01/다다.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "다다"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_주차별미션/Week_01/다다.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "다다 의 백링크"
+              "title": "index 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_주차별미션/Week_01/다다.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "다다 의 나가는 링크"
+              "title": "index 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_주차별미션/Week_01/다다.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "다다 의 개요"
+              "title": "index 의 개요"
             }
           }
         ]
@@ -185,14 +185,51 @@
   },
   "active": "0659b4af2db861b2",
   "lastOpenFiles": [
-    "무제 폴더",
+    "index.html",
     "00_주차별미션/Week_01/다다.md",
-    "무제",
-    "00_주차별미션/Week_01",
-    "01_인사이트 및 리소스",
-    "00_주차별미션",
-    "_meta",
-    "_templates",
-    "Week_01"
+    "index.md",
+    "vercel.json",
+    "Pasted image 20260329182258.png",
+    "node_modules/esprima/bin/esvalidate.js",
+    "node_modules/esprima/bin/esparse.js",
+    "node_modules/esprima/bin",
+    "node_modules/js-yaml/bin/js-yaml.js",
+    "node_modules/js-yaml/bin",
+    "node_modules/resolve/bin/resolve",
+    "node_modules/resolve/bin",
+    "node_modules/prettier/bin/prettier.cjs",
+    "node_modules/prettier/bin",
+    "node_modules/pixi.js/README.md",
+    "node_modules/mathjax-full/README.md",
+    "node_modules/mathjax-full/CONTRIBUTING.md",
+    "node_modules/rxjs/README.md",
+    "node_modules/rxjs/CODE_OF_CONDUCT.md",
+    "node_modules/rxjs/CHANGELOG.md",
+    "node_modules/typescript/SECURITY.md",
+    "node_modules/typescript/README.md",
+    "node_modules/rehype-citation/README.md",
+    "node_modules/speech-rule-engine/README.md",
+    "node_modules/@bufbuild/protobuf/README.md",
+    "node_modules/@img/sharp-libvips-darwin-arm64/README.md",
+    "node_modules/colorjs.io/README.md",
+    "node_modules/sass-embedded/README.md",
+    "node_modules/speech-rule-engine/lib/README.md",
+    "node_modules/katex/README.md",
+    "node_modules/@esbuild/darwin-arm64/README.md",
+    "node_modules/preact/README.md",
+    "node_modules/@citation-js/core/README.md",
+    "node_modules/@citation-js/core/LICENSE.md",
+    "node_modules/resolve/SECURITY.md",
+    "node_modules/@shuding/opentype.js/RELEASES.md",
+    "node_modules/@shuding/opentype.js/README.md",
+    "node_modules/gifuct-js/demo/jblack.gif",
+    "node_modules/gifuct-js/demo/horses.gif",
+    "node_modules/gifuct-js/demo/dog.gif",
+    "node_modules/js-binary-schema-parser/example/horses.gif",
+    "node_modules/js-binary-schema-parser/example/dog.gif",
+    "node_modules/js-binary-schema-parser/example/box.gif",
+    "quartz/static/og-image.png",
+    "quartz/static/icon.png",
+    "docs/images/social-image-preview-light.png"
   ]
 }
